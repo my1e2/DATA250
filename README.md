@@ -1,4 +1,4 @@
-# Mathematics / Linear Algebra Coursework Repository
+# Discrete Mathematics / Linear Algebra Coursework Repository
 
 Repository containing lecture materials, homework assignments, proof exercises, notebooks, and exam preparation materials related to discrete mathematics and linear algebra.
 
